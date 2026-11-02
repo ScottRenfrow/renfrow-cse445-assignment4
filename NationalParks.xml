@@ -125,6 +125,30 @@
     </Address>
   </NationalPark>
 
+    <NationalPark>
+    <Name>Mount Rainier</Name>
+    <Phone>360-569-2211</Phone>
+    <Address NearestAirport="Seattle-Tacoma Internationalf">
+      <Number>55210</Number>
+      <Street>238th Ave</Street>
+      <City>Ashford</City>
+      <State>WA</State>
+      <Zip>98304</Zip>
+    </Address>
+  </NationalPark>
+
+    <NationalPark Rating="4.8">
+    <Name>Shenandoah</Name>
+    <Phone>540-999-3500</Phone>
+    <Address NearestAirport="Washington Dulles International">
+      <Number>3655</Number>
+      <Street>US Highway 211 East</Street>
+      <City>Luray</City>
+      <State>VA</State>
+      <Zip>22835</Zip>
+    </Address>
+  </NationalPark>
+
   <NationalPark>
     <Name>Everglades</Name>
     <Phone>305-242-7700</Phone>
