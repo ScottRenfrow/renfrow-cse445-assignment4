@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Copy of NationalParks.xml with five errors injected for testing (Q1.3) -->
 <!-- ERROR 1: root element is NationalPark instead of NationalParks -->
 <NationalPark>
 
